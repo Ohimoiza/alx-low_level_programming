@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
  * str_concat - concatenates two strings
@@ -47,3 +47,4 @@ char *str_concat(char *s1, char *s2)
 
 	return (s3);
 }
+
